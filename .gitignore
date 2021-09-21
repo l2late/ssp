@@ -130,3 +130,4 @@ dmypy.json
 
 # npm stuff
 package-lock.json
+.virtual_documents
